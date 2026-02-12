@@ -139,13 +139,6 @@ Legal workflow platform for contracts and case operations.
 
 </details>
 
-## Engineering Principles
-
-- Solve real problems before polishing aesthetics.
-- Prefer reliable systems over unnecessary complexity.
-- Automate repetitive work aggressively.
-- Keep decisions explicit so software stays maintainable.
-
 ## Contact
 
 - GitHub: [@4ismael1](https://github.com/4ismael1)
