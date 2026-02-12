@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="./assets/header.svg" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,35:111827,70:1f2937,100:0b1220&height=145&section=header&animation=fadeIn&fontSize=0" alt="Header" width="100%" />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2100&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=960&height=66&lines=ISMAEL;Python+%7C+TypeScript+%7C+Node.js+%7C+React+%7C+Vue" alt="Name Typing" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2300&pause=900&color=A5B4FC&center=true&vCenter=true&repeat=true&width=960&height=36&lines=Automation+%7C+Desktop+Tooling+%7C+Systems+%7C+Legaltech;Build+useful+tools.+Ship.+Iterate." alt="Stack Typing" />
@@ -152,4 +152,5 @@ Legal workflow platform for contracts and case operations.
 - Discord: `4.hz`
 - Email: `Ismaelpaulino32@gmail.com`
 - Open an issue/discussion in any repo to collaborate.
+
 
