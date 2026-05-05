@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/4ismael1">
-    <img src="https://img.shields.io/badge/GitHub-4ismael1-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub" />
   </a>
+  <img src="https://img.shields.io/badge/Discord-4.hz-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
 </p>
 
 <picture>
